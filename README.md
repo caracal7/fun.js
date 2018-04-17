@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Fun.js
 
 You can use the [editor on GitHub](https://github.com/caracal7/fun.js/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -35,3 +35,8 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+
+<a href="http://js.org" target="_blank" title="JS.ORG | JavaScript Community">
+<img src="http://logo.js.org/dark_horz.png" width="102" alt="JS.ORG Logo"/></a>
+<!-- alternatives [bright|dark]_[horz|vert|tiny].png (width[horz:102,vert:50,tiny:77]) -->
