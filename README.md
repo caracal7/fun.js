@@ -1,0 +1,2 @@
+# fun.js
+Functional javascript
