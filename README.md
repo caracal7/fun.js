@@ -1,42 +1,18 @@
 ## Fun.js
 
-You can use the [editor on GitHub](https://github.com/caracal7/fun.js/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+A functional and reactive JavaScript framework for fun and for profit!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Why?
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Because I love JavaScript and I want to make it better.
 
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+let fun = theAnswerOfLife => 42
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/caracal7/fun.js/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
-
+WiP
 
 <a href="http://js.org" target="_blank" title="JS.ORG | JavaScript Community">
 <img src="http://logo.js.org/dark_horz.png" width="102" alt="JS.ORG Logo"/></a>
-<!-- alternatives [bright|dark]_[horz|vert|tiny].png (width[horz:102,vert:50,tiny:77]) -->
